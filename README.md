@@ -51,7 +51,7 @@ A clean, minimal image gallery for browsing any subreddit with sorting options, 
 
 ## Usage
 
-1. Enter a subreddit name (e.g. `cats`, `cosplay`, `EarthPorn`)
+1. Enter a subreddit name (e.g. `cats`, `EarthPorn`, `itookapicture`, `Justfuckmyshitup`)
 2. Select a sorting method: **Hot**, **New**, or **Trending**
 3. Enter the number of images to load
 4. *(Optional)* Enter a keyword to filter results
