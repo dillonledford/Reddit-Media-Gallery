@@ -3,6 +3,9 @@
 A clean, minimal image gallery for browsing any subreddit with sorting options, keyword filtering, and keyboard navigation. Built with **Python / Flask**.
 
 [Reddit Media Gallery](https://faux.onrender.com/)
+
+**Live App:** [Reddit Media Gallery](https://faux.onrender.com)
+> Note: Hosted on Render's free tier — may take up to 60 seconds to wake on first visit.
 ---
 
 ## Features
