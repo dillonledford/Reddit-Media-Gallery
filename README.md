@@ -7,7 +7,7 @@ A clean, minimal image gallery for browsing any subreddit with sorting options, 
 ## Features
 
 - **Subreddit browsing** — Enter any subreddit name to load its images instantly
-- **Sorting options** — Sort posts by Hot, New, or Trending
+- **Sorting options** — Sort posts by Hot, Top, or New
 - **Custom image count** — Choose how many images to load at once
 - **Keyword filtering** — Optionally filter results by keyword (e.g. a character name or "cosplay")
 - **Full-page gallery view** — Images are displayed in a clean, dark-background gallery
