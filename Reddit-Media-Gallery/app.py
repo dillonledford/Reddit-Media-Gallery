@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO)
 reddit = praw.Reddit(
     client_id=os.getenv('REDDIT_CLIENT_ID'),
     client_secret=os.getenv('REDDIT_CLIENT_SECRET'),
-    user_agent='MyRedditApp/0.1 by deadford'
+    user_agent='MyRedditApp/0.1 by dillonledford'
 )
 
 @app.route('/')
