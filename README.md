@@ -9,7 +9,7 @@ A clean, minimal image gallery for browsing any subreddit with sorting options, 
 ## Features
 
 - **Subreddit browsing** — Enter any subreddit name to load its images instantly
-- **Sorting options** — Sort posts by Hot, Top, or New
+- **Sorting options** — Sort posts by Hot, New, or Top
 - **Custom image count** — Choose how many images to load at once
 - **Keyword filtering** — Optionally filter results by keyword (e.g. a character name or "cosplay")
 - **Full-page gallery view** — Images are displayed in a clean, dark-background gallery
@@ -52,7 +52,7 @@ A clean, minimal image gallery for browsing any subreddit with sorting options, 
 ## Usage
 
 1. Enter a subreddit name (e.g. `cats`, `EarthPorn`, `itookapicture`, `Justfuckmyshitup`)
-2. Select a sorting method: **Hot**, **New**, or **Trending**
+2. Select a sorting method: **Hot**, **New**, or **Top**
 3. Enter the number of images to load
 4. *(Optional)* Enter a keyword to filter results
 5. Browse the gallery — click any image to open it, then use **arrow keys** or **click** to navigate
