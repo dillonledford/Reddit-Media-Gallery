@@ -4,9 +4,7 @@ A clean, minimal image gallery for browsing any subreddit with sorting options, 
 
 **Live App:** [Reddit Media Gallery](https://faux.onrender.com)
 > Note: Hosted on Render's free tier — may take up to 90 seconds to wake on first visit.
----
-<img width="1104" height="435" alt="Image" src="https://github.com/user-attachments/assets/1186c221-cdcc-49ba-bfab-5199398219ae" />
-<img width="1104" height="435" alt="Image" src="https://github.com/user-attachments/assets/76048c8f-8495-4d04-8b77-83cb6cfa43f6" />
+
 ---
 
 ## Features
