@@ -14,7 +14,7 @@ A clean, minimal image gallery for browsing any subreddit with sorting options, 
 - **Keyword filtering** — Optionally filter results by keyword (e.g. a character name or "cosplay")
 - **Full-page gallery view** — Images are displayed in a clean, dark-background gallery
 - **Keyboard & click navigation** — Select any image and navigate with arrow keys or by clicking through them
-- **View Post** — opens the original Reddit post for the currently displayed image in a new tab
+- **View Post** — Opens the original Reddit post for the currently displayed image in a new tab
 
 ---
 
