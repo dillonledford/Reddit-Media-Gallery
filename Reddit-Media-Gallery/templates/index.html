@@ -168,6 +168,7 @@
                 currentIndex = (currentIndex - 1 + media.length) % media.length;
             }
             document.getElementById('full-image').src = media[currentIndex].full;
+			document.getElementById('post-link').href = media[currentIndex].post_url;
             document.getElementById('full-image-view').classList.remove('zoomed');
             preloadAdjacentImages();
         }
