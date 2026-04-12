@@ -52,7 +52,11 @@ if not app.view_functions.get('fetch_media'):
                         if hasattr(submission, 'preview'):
                             thumbnail_url = submission.preview['images'][0]['resolutions'][0]['url']
                             full_image_url = submission.url
-                            media_posts.append({'thumbnail': thumbnail_url, 'full': full_image_url})
+                            media_posts.append({
+                            'thumbnail': thumbnail_url,
+                            'full': full_image_url,
+                            'post_url': f"https://reddit.com{submission.permalink}"
+                            })
                             count += 1
                             new_count += 1
                             if count >= num_images:

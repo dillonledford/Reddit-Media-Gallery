@@ -103,6 +103,11 @@
         <img id="full-image" src="" alt="media" onclick="toggleZoom(event)">
     </div>
 
+	<a id="post-link" href="#" target="_blank" onclick="event.stopPropagation()"
+	style="position:absolute; bottom:20px; right:20px; background:#1a1a1a; 
+	color:white; padding:8px 14px; border-radius:6px; text-decoration:none; 
+	font-size:18px; z-index:20;">View Post</a>
+
     <script>
         let media = [];
         let currentIndex = 0;
@@ -152,6 +157,7 @@
             fullImageView.style.display = 'flex';
             fullImageView.classList.remove('zoomed');
             preloadAdjacentImages();
+			document.getElementById('post-link').href = media[currentIndex].post_url;
         }
 
         function navigate(direction, event) {
