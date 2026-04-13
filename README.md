@@ -43,7 +43,7 @@ A clean, minimal image gallery for browsing any subreddit with sorting options, 
 
 3. **Run the app**
    ```bash
-   python app.py
+   python rm-gallery.py
    ```
 
 4. **Open in your browser**
