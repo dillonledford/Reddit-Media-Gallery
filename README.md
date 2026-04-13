@@ -67,3 +67,7 @@ A clean, minimal image gallery for browsing any subreddit with sorting options, 
 
 - **Backend:** Python, Flask
 - **Frontend:** HTML, CSS, JavaScript
+
+---
+
+"I wanted a way to browse through primarily image Subreddits with simple navigation like a gallery."
