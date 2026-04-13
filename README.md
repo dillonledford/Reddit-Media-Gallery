@@ -70,4 +70,4 @@ A clean, minimal image gallery for browsing any subreddit with sorting options, 
 
 ---
 
-"I wanted a way to browse through primarily image Subreddits with simple navigation like a gallery."
+<b><i>`I wanted a way to browse through primarily image Subreddits with simple navigation like a gallery.`</i></b>
